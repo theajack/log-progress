@@ -1,0 +1,29 @@
+{
+  "name": "log-progress",
+  "version": "1.0.2",
+  "description": "A simple, flexible, and highly configurable progress bar plugin.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/theajack/log-progress.git"
+  },
+  "keywords": [
+    "progress",
+    "progress-bar",
+    "node",
+    "plugin",
+    "console.log"
+  ],
+  "author": "theajack",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/theajack/log-progress/issues"
+  },
+  "homepage": "https://github.com/theajack/log-progress#readme",
+  "dependencies": {
+    "single-line-log": "^1.1.2"
+  }
+}
