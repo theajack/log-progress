@@ -1,6 +1,6 @@
 {
   "name": "log-progress",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "A simple, flexible, and highly configurable progress bar plugin.",
   "main": "index.js",
   "scripts": {
